@@ -15,5 +15,5 @@
 </div> <br/>
 
 ## Contato:
- E-mail: luizmatheus.profissional@hotmail.com
+ E-mail: luizmatheus.profissional@gmail.com
  LinkedIn: https://www.linkedin.com/in/luiz-matheus/
