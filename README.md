@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Luiz Matheus 👋
 
-[![Portfólio](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://sujeitoprogramador.com)]([https://portfolio-luiz-matheus-da-silva.netlify.app/])
+[![Portfólio](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://sujeitoprogramador.com
+)](https://portfolio-luiz-matheus-da-silva.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/luiz-matheus/) 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
