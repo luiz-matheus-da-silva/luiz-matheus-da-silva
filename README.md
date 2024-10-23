@@ -6,7 +6,7 @@
 
 ---
 
-### 🌌 Tecnologias & Ferramentas Futuristas:
+### 🌌 Tecnologias & Ferramentas:
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px; animation: pulse 2s infinite; background: linear-gradient(135deg, #2E2E2E, #000000); padding: 20px; border-radius: 15px;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=282828" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=282828" alt="CSS3" />
