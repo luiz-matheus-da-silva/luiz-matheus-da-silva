@@ -6,20 +6,20 @@
 
 ---
 
-### 🌌 Tecnologias & Ferramentas:
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px; animation: pulse 2s infinite; background: linear-gradient(135deg, #2E2E2E, #000000); padding: 20px; border-radius: 15px;">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=282828" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=282828" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=282828" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=282828" alt="React" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=282828" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=282828" alt=".NET" />
+### 🚀 Tecnologias & Ferramentas:
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px; padding: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40" />
 </div>
 
 ---
 
-### 📈 Insights e Estatísticas:
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px; background: linear-gradient(135deg, #1A1A1A, #000000); padding: 20px; border-radius: 15px; animation: fadeIn 1.5s ease-in;">
+### 📊 Insights:
+<div style="padding: 10px; background: #111111; border-radius: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-matheus-da-silva&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="100%"/>
 </div>
 
