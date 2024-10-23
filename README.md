@@ -25,13 +25,4 @@
 
 ---
 
-### 🛠️ Projetos Recentes:
-<div style="display: flex; flex-direction: column; gap: 10px; background: #1A1A1A; padding: 15px; border-radius: 10px; animation: slideUp 1.5s ease;">
-- **[Projeto 1](https://github.com/luiz-matheus/projeto-1)**: Detalhes e tecnologias utilizadas.
-- **[Projeto 2](https://github.com/luiz-matheus/projeto-2)**: Detalhes e tecnologias utilizadas.
-- **[Projeto 3](https://github.com/luiz-matheus/projeto-3)**: Detalhes e tecnologias utilizadas.
-</div>
-
----
-
 🌟 **Desenvolvedor focado no futuro da tecnologia**, explorando novas fronteiras no mundo da programação e criando soluções inovadoras.
