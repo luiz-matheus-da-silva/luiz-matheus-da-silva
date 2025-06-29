@@ -123,7 +123,3 @@ Code Reviews: 12
 </div>
 
 ---
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0891B2&customColorList=12&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn" width="100%"/>
-</div>
