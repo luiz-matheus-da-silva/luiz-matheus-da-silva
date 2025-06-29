@@ -1,6 +1,21 @@
-# Luiz Matheus da Silva
+<div align="center">
 
-> **Full Stack Developer** • Building scalable solutions with modern technologies
+### 💭 Daily Inspiration
+*"Clean code is not written by following a set of rules. You know you have written clean code when each routine you read turns out to be pretty much what you expected."* - Robert Martin
+
+</div>
+
+---
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=2500&pause=800&color=0891B2&center=true&vCenter=true&width=600&lines=Luiz+Matheus+da+Silva;Full+Stack+Developer;Building+the+future+with+code;Clean+Architecture+Enthusiast)
+
+</div>
+
+<div align="center">
+<sub>🚀 Building scalable solutions with modern technologies</sub>
+</div>
 
 ```csharp
 public class Developer
@@ -17,34 +32,66 @@ public class Developer
 }
 ```
 
-## Tech Stack
+## ⚡ Tech Arsenal
 
-**Frontend**  
-`React` `JavaScript` `TypeScript` `HTML5` `CSS3`
+<div align="center">
 
-**Backend**  
-`C#` `.NET` `ASP.NET Core` `RESTful APIs`
+### Frontend Ecosystem
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind" />
 
-**Database & DevOps**  
-`SQL Server` `Docker` `Git`
+### Backend & Architecture  
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express" />
+
+### Database & DevOps
+<img src="https://skillicons.dev/icons?i=sqlserver,docker,git,github" />
+
+### Tools & Environment
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,linux" />
+
+</div>
 
 ---
 
-## Current Focus
+## 🎯 Learning Journey
+
+<div align="center">
 
 ```bash
-$ cat learning_roadmap.md
+$ git log --oneline learning_progress
 ```
 
-- 🏗️ **API Architecture** - RESTful design patterns and best practices
-- ⚛️ **React Ecosystem** - Modern React.js and React Native development
-- 🐳 **Containerization** - Docker for development and deployment workflows
+<table>
+<tr>
+<td align="center" width="33%">
+
+🏗️ **API Architecture**
+<br><sub>RESTful design patterns<br>Best practices & optimization</sub>
+
+</td>
+<td align="center" width="33%">
+
+⚛️ **React Ecosystem**  
+<br><sub>Modern React.js development<br>React Native cross-platform</sub>
+
+</td>
+<td align="center" width="33%">
+
+🐳 **Containerization**
+<br><sub>Docker workflows<br>Development & deployment</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
 ## GitHub Analytics
 
 <div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luiz-matheus-da-silva&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=0891b2)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=luiz-matheus-da-silva&theme=dark&hide_border=true&background=000000&stroke=333333&ring=0891b2&fire=0891b2&currStreakLabel=ffffff)
 
@@ -93,12 +140,18 @@ Code Reviews: 12
 
 ---
 
-## Connect
+## 🌐 Let's Connect
 
-[**Portfolio**](https://portfolio-luiz-matheus-da-silva.netlify.app/) • [**LinkedIn**](https://www.linkedin.com/in/luiz-matheus-da-silva) • [**Email**](mailto:luizmatheus.profissional@gmail.com)
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0891B2?style=for-the-badge&logoColor=white&labelColor=000000)](https://portfolio-luiz-matheus-da-silva.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/luiz-matheus-da-silva)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:luizmatheus.profissional@gmail.com)
+
+</div>
 
 ---
 
 <div align="center">
-<sub>💡 "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0891B2&customColorList=12&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
