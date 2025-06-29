@@ -40,13 +40,14 @@ public class Developer
 <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind" />
 
 ### Backend & Architecture  
-<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet" />
+<br><sub>+ Entity Framework, ASP.NET Core, RESTful APIs</sub>
 
 ### Database & DevOps
-<img src="https://skillicons.dev/icons?i=sqlserver,docker,git,github" />
+<img src="https://skillicons.dev/icons?i=sqlserver,docker,git,github,azure" />
 
 ### Tools & Environment
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,linux" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman" />
 
 </div>
 
