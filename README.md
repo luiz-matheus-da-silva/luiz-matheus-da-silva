@@ -112,27 +112,6 @@ Code Reviews: 12
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=luiz-matheus-da-silva&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2)
-
-</div>
-
----
-
-## Recent Activity
-
-```diff
-+ Implementing clean architecture patterns in .NET projects
-+ Building responsive React components with modern hooks
-+ Exploring Docker containerization for microservices
-+ Optimizing RESTful API performance and documentation
-```
-
----
-
 ## 🌐 Let's Connect
 
 <div align="center">
