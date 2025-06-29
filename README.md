@@ -75,12 +75,6 @@ $ git log --oneline learning_progress
 <br><sub>Modern React.js development<br>React Native cross-platform</sub>
 
 </td>
-<td align="center" width="33%">
-
-🐳 **Containerization**
-<br><sub>Docker workflows<br>Development & deployment</sub>
-
-</td>
 </tr>
 </table>
 
