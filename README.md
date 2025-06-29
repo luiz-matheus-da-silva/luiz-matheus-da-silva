@@ -1,7 +1,7 @@
 <div align="center">
 
 ### 💭 Daily Inspiration
-*"Clean code is not written by following a set of rules. You know you have written clean code when each routine you read turns out to be pretty much what you expected."* - Robert Martin
+*"Technology is best when it brings people together."* - Matt Mullenweg
 
 </div>
 
