@@ -91,9 +91,7 @@ $ git log --oneline learning_progress
 ## GitHub Analytics
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luiz-matheus-da-silva&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=0891b2)
-
+    
 ![](https://github-readme-streak-stats.herokuapp.com/?user=luiz-matheus-da-silva&theme=dark&hide_border=true&background=000000&stroke=333333&ring=0891b2&fire=0891b2&currStreakLabel=ffffff)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-matheus-da-silva&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=0891b2)
