@@ -2,23 +2,23 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Criando+o+futuro+com+c%C3%B3digo;Sempre+aprendendo+algo+novo)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Building+the+future+with+code;Always+learning+something+new)
   
-  **"O futuro pertence àqueles que acreditam na beleza de seus sonhos."** ✨
+  **"The future belongs to those who believe in the beauty of their dreams."** ✨
   
 </div>
 
 ---
 
-## 🌟 Sobre Mim
+## 🌟 About Me
 
 ```csharp
 public class LuizMatheus
 {
-    public string Nome { get; set; } = "Luiz Matheus da Silva";
-    public string Localizacao { get; set; } = "Londrina, PR - Brasil";
-    public string[] Foco { get; set; } = { "Full Stack Development", "Clean Architecture", "Innovation" };
-    public string[] Aprendendo { get; set; } = { "Docker", "Cloud Computing", "Microservices" };
+    public string Name { get; set; } = "Luiz Matheus da Silva";
+    public string Location { get; set; } = "Londrina, PR - Brazil";
+    public string[] Focus { get; set; } = { "Full Stack Development", "Clean Architecture", "Innovation" };
+    public string[] Learning { get; set; } = { "Docker", "Cloud Computing", "Microservices" };
     public string[] Hobbies { get; set; } = { "Coding", "Tech Research", "Problem Solving" };
 }
 ```
@@ -46,25 +46,15 @@ public class LuizMatheus
 
 ---
 
-## 📊 Dashboard Analytics
+## 📊 Analytics Dashboard
 
 <div align="center">
-
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luiz-matheus-da-silva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
 
 ### 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luiz-matheus-da-silva&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
 
-</div>
-
-<div align="center">
-
-### 💻 Linguagens Mais Usadas
+### 💻 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-matheus-da-silva&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
-
-### 📅 Contribuições da Semana
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luiz-matheus-da-silva&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B)
 
 </div>
 
@@ -80,27 +70,10 @@ public class LuizMatheus
 
 ---
 
-## 📊 Métricas Detalhadas
-
-<div align="center">
-
-### 📈 Profile Views & Followers
-![Profile Views](https://komarev.com/ghpvc/?username=luiz-matheus-da-silva&color=00D9FF&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/luiz-matheus-da-silva?style=for-the-badge&color=00D9FF&labelColor=0D1117)
-
-### ⚡ Quick Stats
-![Commits](https://img.shields.io/badge/Total%20Commits-150+-00D9FF?style=for-the-badge&labelColor=0D1117)
-![Repositories](https://img.shields.io/badge/Public%20Repos-25+-00D9FF?style=for-the-badge&labelColor=0D1117)
-![Stars](https://img.shields.io/badge/Stars%20Earned-50+-00D9FF?style=for-the-badge&labelColor=0D1117)
-
-</div>
-
----
-
-## 📈 Atividade Semanal
+## 📈 Weekly Activity
 
 ```text
-💻 Esta semana eu programei em:
+💻 This week I coded in:
 
 C#           ████████████████▓▓▓░░   65.2%
 JavaScript   ██████▓▓▓░░░░░░░░░░░░   20.5%
@@ -110,7 +83,7 @@ CSS          ██░░░░░░░░░░░░░░░░░░░    
 
 ---
 
-## 🌐 Conecte-se Comigo
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -124,12 +97,10 @@ CSS          ██░░░░░░░░░░░░░░░░░░░    
 
 <div align="center">
 
-### 💭 Thought of the Day
-*"Código limpo não é escrito seguindo um conjunto de regras. Você sabe que escreveu código limpo quando cada rotina que você lê é praticamente o que você esperava."* - Robert Martin
+### 💭 Quote of the Day
+*"Clean code is not written by following a set of rules. You know you have written clean code when each routine you read turns out to be pretty much what you expected."* - Robert Martin
 
-![Snake animation](https://raw.githubusercontent.com/luiz-matheus-da-silva/luiz-matheus-da-silva/output/github-contribution-grid-snake-dark.svg)
-
-**⭐ Se você chegou até aqui, considere deixar uma estrela nos meus repositórios!**
+**⭐ If you made it this far, consider starring my repositories!**
 
 </div>
 
