@@ -44,7 +44,7 @@ public class Developer
 <br><sub>+ Entity Framework, ASP.NET Core, RESTful APIs</sub>
 
 ### Database & DevOps
-<img src="https://skillicons.dev/icons?i=sqlserver,docker,git,github,azure" />
+<img src="https://skillicons.dev/icons?i=sqlserver,docker,github,azure" />
 
 ### Tools & Environment
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman" />
